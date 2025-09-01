@@ -1,4 +1,4 @@
-# RFM_bankingData
+# Segmentation of Gate City Bank’s customer using RFM analysis (2016-2022)
 ## Purpose of the research
 The purpose was to segment customers based on their spending behaviors and income which could give the financial institution more information about their clients to plan data-driven strategies for those who are using the debit card product. The key insights drawn from the analysis will help improve the bank promotion for maintaining their loyal customers, reactivating dormant customers based on their card usage.
 ## Data characteristics
